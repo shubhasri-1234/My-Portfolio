@@ -139,7 +139,7 @@ header .follow a:hover{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    background:url(/images/bg.jpg)no-repeat;
+   background:url(images/bg.jpg)no-repeat;
     background-size: cover;
 }
 
